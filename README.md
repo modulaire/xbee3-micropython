@@ -12,3 +12,4 @@
 **Notes to consider:**
 
 - RAM on XBEE series 3: 1 MB / 128 KB RAM (32 KB are available for MicroPython)
+- [VL53L0X](https://www.pololu.com/product/2490) is a distance sensor of 200 cm. The module found in the example is taken from [lemariva/uPySensors](https://github.com/lemariva/uPySensors) github repository
