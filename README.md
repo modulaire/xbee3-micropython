@@ -6,7 +6,8 @@
 - [XBee Hardware Manual](https://www.digi.com/resources/documentation/digidocs/pdfs/90001543.pdf)
 - [Digi MicroPython Programming Guide](https://www.digi.com/resources/documentation/digidocs/90002219/default.htm#reference/r_class_i2c.htm%3FTocPath%3DMachine%2520module%7CClass%2520I2C%253A%2520two-wire%2520serial%2520protocol%7C_____0)
 - [Getting started: How to Download MicroPython Code Onto XBee 3](https://www.instructables.com/How-to-Download-MicroPython-Code-Onto-XBee-3/)
-- [Getting started with XCTU config: Light Switch XBee: Example Project](https://www.faludi.com/classes/xbee1workshop/Light_Switch_XBee_Example_Project-Series_1.pdf) <br />
+- [Getting started with XCTU config: Light Switch XBee: Example Project](https://www.faludi.com/classes/xbee1workshop/Light_Switch_XBee_Example_Project-Series_1.pdf) 
+- [Digi XBee-micropython on Github](https://github.com/digidotcom/xbee-micropython), especially useful is the [communication](https://github.com/digidotcom/xbee-micropython/tree/master/samples/xbee/communication) examples (if you are in fact following this procedure chronologically) <br />
 <br />
 
 **Notes to consider:**
