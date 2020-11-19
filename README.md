@@ -8,5 +8,7 @@
 - [Getting started: How to Download MicroPython Code Onto XBee 3](https://www.instructables.com/How-to-Download-MicroPython-Code-Onto-XBee-3/)
 - [Getting started with XCTU config: Light Switch XBee: Example Project](https://www.faludi.com/classes/xbee1workshop/Light_Switch_XBee_Example_Project-Series_1.pdf) <br />
 <br />
+
 **Notes to consider:**
+
 - RAM on XBEE series 3: 1 MB / 128 KB RAM (32 KB are available for MicroPython)
